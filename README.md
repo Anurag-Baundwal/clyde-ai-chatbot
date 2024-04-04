@@ -27,3 +27,7 @@ This project is an AI chatbot designed to engage with players in a mobile game c
 5. Install the required Python packages: `pip install -r requirements.txt`
 6. Set up the Anthropic API key and the path to the ADB executable in the `.env` file:
 7. On the phone, make sure to enable "USB Debugging (Security Settings)" in order to grant permission to send input using adb
+
+## Todo:
+
+Update the ai to let Claude 3 Haiku decide what to do - whether to scroll up and capture more screenshots for more context, say something, or simply remain silent - rather than waiting a fixed amount of time before chatting again.

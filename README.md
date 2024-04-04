@@ -1,6 +1,6 @@
 # AI Chatbot for Mobile Game
 
-This project is an AI chatbot designed to engage with players in a mobile game chat. The chatbot periodically reads the chat messages, generates relevant responses using the Anthropic Claude AI model (Claude 3 Haiku), and sends the responses back to the game chat by simulating input using adb platform tools.
+This project is an autonomous AI chatbot designed to engage with players in a mobile game chat. The chatbot periodically reads the chat messages, generates relevant responses using the Anthropic Claude AI model (Claude 3 Haiku), and sends the responses back to the game chat by simulating input using adb platform tools.
 
 ## Features
 
